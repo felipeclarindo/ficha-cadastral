@@ -29,6 +29,13 @@ Este é um programa simples em Python que permite ao usuário gerenciar uma fich
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Autor
+
+ **Felipe Clarindo**
+  - [LinkedIn](https://www.linkedin.com/in/felipe-clarindo-934578289/)
+  - [Instagram](https://www.instagram.com/lipethegoat)
+  - [GitHub](https://github.com/felipeclarindo)
+
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+Este projeto está licenciado sob a [GNU Affero License](https://www.gnu.org/licenses/agpl-3.0.html).
