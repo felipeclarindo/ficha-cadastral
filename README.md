@@ -14,7 +14,7 @@ Este é um programa simples em Python que permite ao usuário gerenciar uma fich
 1. Clone o repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/felipeclarindo/ficha-cadastral.git
    ```
 
 2. Execute o programa:
